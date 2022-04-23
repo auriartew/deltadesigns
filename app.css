@@ -1050,7 +1050,9 @@ footer ul li:hover::after {
     .contact input {
         height: 8vw;
     }
-
+    .contact button {
+        height: 20vw;
+    }
     .footer {
         height: 20vw;
     }
